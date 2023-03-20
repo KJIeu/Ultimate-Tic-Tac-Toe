@@ -18,6 +18,8 @@ Download the source code from the repository and run the file just as any other 
 python uttt.py
 ```
 
+Before running the application player can choose what algorithm he wants to use: ordinary minimax algorithm or its improved version with alpha beta prunning
+
 The `depth` variable can be changed to set the difficulty level(performance of AI).
 
 The `turn`  variable can be changed to define who is doing first turn: 
